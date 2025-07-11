@@ -67,7 +67,7 @@ Ver archivo: [`Content/troubleshooting.md`](Content/troubleshooting.md)
 
 ### 4. Resultados
 - [commits.json](Content/commits.json): Lista de commits extraída del repositorio `dipucriodigital/engenharia-de-software`.
-- [Notebook en Colab](Content/github_api_colab.ipynb): Código completo con autenticación, paginación, rate limit y guardado de datos.
+- [Notebook en Colab](Content/Data_Source_Test.ipynb): Código completo con autenticación, paginación, rate limit y guardado de datos.
 
 ---
 
